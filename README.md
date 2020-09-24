@@ -1,5 +1,13 @@
 ` Two Dimensional Arrays ` -  `Mapping` -  `Searching (all techniques) ` -  `Sorting (all techniques)` - `Hashing` 
 
+## Arrays Included
+
+(a) Diagonal matrix
+(b) Lower triangular Matrix
+(c) Upper triangular Matrix
+(d) Symmetric Matrix
+(e) Tridiagonal Matrix
+
 ## 2D-Array Mapping 
 
 The Code File is basically written in C++ and consists of code to map the content of 2D array into 1D array.
