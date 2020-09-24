@@ -2,11 +2,11 @@
 
 ## Arrays Included
 
-(a) Diagonal matrix
-(b) Lower triangular Matrix
-(c) Upper triangular Matrix
-(d) Symmetric Matrix
-(e) Tridiagonal Matrix
+1. Diagonal matrix
+2. Lower triangular Matrix
+3. Upper triangular Matrix
+4. Symmetric Matrix
+5. Tridiagonal Matrix
 
 ## 2D-Array Mapping 
 
