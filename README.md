@@ -1,6 +1,6 @@
 ` Two Dimensional Arrays ` -  `Mapping` -  `Searching (all techniques) ` -  `Sorting (all techniques)` - `Hashing` 
 
-## Arrays Included
+## 2D Arrays Included
 
 1. Diagonal matrix
 2. Lower triangular Matrix
